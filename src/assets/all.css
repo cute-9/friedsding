@@ -1,0 +1,203 @@
+body,html,p{
+    margin: 0 !important;
+    padding: 0 !important;
+}
+a{
+  color: black;
+}
+.el-header.header{
+  height: 2rem !important;
+}
+.el-header{
+  display: flex;
+  padding: 0 !important;
+}
+.el-card[data-v-fa4e1604] {
+    width: 85% !important;
+    margin: 0 auto;
+    margin-top: 0.4rem}
+.el-badge__content.is-fixed {
+  position: absolute;
+  top: 0.3rem !important;
+}
+.el-textarea__inner {
+  height: 2.5rem !important;
+}
+.el-upload--picture-card {
+  width: 2.7rem !important;
+  height: 2.7rem !important;
+  line-height: 2.7rem !important; 
+}
+.el-upload-list--picture-card .el-upload-list__item{
+  width: 3rem !important;
+  height: 2.7rem !important;
+}
+.el-tabs__item {
+    padding: 0 20px !important;}
+.data[data-v-fa4e1604]{
+  width: 4rem !important;
+  /* margin-left: 1rem !important; */
+}
+.el-input--prefix .el-input__inner {
+    /* padding-left: 0.2rem !important; */
+    font-size: 0.2rem !important;
+}
+.el-input--suffix .el-input__inner {
+  padding-right: 0 !important;
+}
+.el-tag {
+    background-color: #ecf5ff;
+    border-color: #d9ecff;
+    display: inline-block;
+    height: 0.7rem !important;
+    /* width: 0rem !important; */
+    padding: 0 10px;
+    line-height: 0.7rem !important;
+    font-size: 0.2rem !important;
+    color: #409EFF;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 4px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    white-space: nowrap;
+}
+.el-checkbox__label {
+    display: inline-block;
+    padding-left: 10px;
+    line-height: 19px;
+    font-size: 12px !important;
+}
+.delete[data-v-4ac26f89] {
+    width: 1.6rem !important;
+    height: 0.8rem !important;
+    line-height: 0.8rem !important;
+    float: right;
+    margin-right: 15px;
+    font-size: 0.3rem !important;
+    /* padding-right: 0.8rem; */
+    /* padding: 0 auto; */
+}
+.el-input__icon {
+    /* height: 100%; */
+    width: 25px;
+    text-align: center;
+    -webkit-transition: all .3s;
+    transition: all .3s;
+    line-height: 1rem !important;
+}
+.delete[data-v-17568408] {
+    width: 1.5rem !important;
+    height: 0.6rem !important;
+    float: right;
+    margin-right: 15px;
+    line-height: 0.05rem !important;
+}
+/* .el-button {
+  font-size: 0.2rem !important;
+  padding: 0 !important;
+} */
+.el-input__prefix, .el-input__suffix {
+    height: 0 !important;
+}
+.el-input__inner {
+  height: 1rem !important;
+}
+.el-button {
+    display: inline-block;
+    line-height: 1;
+    white-space: nowrap;
+    cursor: pointer;
+    background: #FFF;
+    border: 1px solid #DCDFE6;
+    color: #606266;
+    -webkit-appearance: none;
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: 0;
+    margin: 0;
+    -webkit-transition: .1s;
+    transition: .1s;
+    font-weight: 500;
+    /* padding: 12px 20px; */
+    font-size: 0.3rem !important;
+    border-radius: 4px;
+    padding: 0 !important;
+}
+.el-input[data-v-4ac26f89] {
+  position: relative;
+  font-size: 0.3rem;
+  display: inline-block;
+  width: 100%;
+  height: 1rem !important;
+}
+.el-form-item {
+  margin-bottom:0 !important;
+}
+.el-message-box {
+  width: 12rem !important;
+}
+@media screen and (min-width: 320px) {
+    html {
+      font-size: 21.33333333px;
+    }
+  }
+  @media screen and (max-width: 420px) {
+    .tabs{
+      width: 100% !important;
+    }
+  }
+  @media screen and (min-width: 360px) {
+    html {
+      font-size: 24px;
+    }
+  }
+  @media screen and (min-width: 375px) {
+    html {
+      font-size: 25px;
+    }
+  }
+  @media screen and (min-width: 384px) {
+    html {
+      font-size: 25.6px;
+    }
+    
+  }
+  @media screen and (min-width: 400px) {
+    html {
+      font-size: 26.66666667px;
+    }
+  
+  }
+  @media screen and (min-width: 414px) {
+    html {
+      font-size: 27.6px;
+    }
+ 
+  }
+  @media screen and (min-width: 424px) {
+    html {
+      font-size: 28.26666667px;
+    }
+  }
+  @media screen and (min-width: 480px) {
+    html {
+      font-size: 32px;
+    }
+  }
+  @media screen and (min-width: 540px) {
+    html {
+      font-size: 36px;
+    }
+  }
+  @media screen and (min-width: 720px) {
+    html {
+      font-size: 48px;
+    }
+  }
+  @media screen and (min-width: 750px) {
+    html {
+      font-size: 50px;
+    }
+  }
